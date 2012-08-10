@@ -7,7 +7,7 @@ Title
         Strace Analyser to parse the output of Strace Command in Linux
 
 What it does?
-============
+=============
 
         S-PARSE is a strace analyzer tool. This tool will parse the output of strace command and the output will be displayed with attractive GUI. This output will be in the tabular as well as graphical form. System calls, their start and finish time, errors if any, unfinished calls, return values are displayed in tabular form. Analysis of system is done in graphcal form.
 
@@ -22,8 +22,9 @@ Strece Description
 External Interfaces
 ====================
          
- Tools : Git tool
- Technology : pyhton programming
+Tools : Git tool
+ 
+Technology : pyhton programming
 
 
 Hardware And Software Requirements
@@ -50,7 +51,7 @@ Versioning
 Contributors
 ============
 
- 1.Akanksha Patil
- #.Jyoti Varpe
- #.Kalyani Kulkarni
- #.Nikita Shah
+ 1. Akanksha Patil.
+ #. Jyoti Varpe.
+ #. Kalyani Kulkarni.
+ #. Nikita Shah.
