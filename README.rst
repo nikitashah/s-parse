@@ -12,7 +12,7 @@ What it does?
         S-PARSE is a strace analyzer tool. This tool will parse the output of strace command and the output will be displayed with attractive GUI. This output will be in the tabular as well as graphical form. System calls, their start and finish time, errors if any, unfinished calls, return values are displayed in tabular form. Analysis of system is done in graphcal form.
 
 
-Strece Description
+Strace Description
 ==================
 
         Strace command traces system calls and signals. It intercepts and records the system calls which are called by a process and the signals which are received by a process.The name of each system call, its arguments and its return value are printed on standard error or to the file specified with the -o option. Strace is a useful diagnostic, instructional, and debugging tool.
